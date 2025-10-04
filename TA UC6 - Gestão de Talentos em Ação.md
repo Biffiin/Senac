@@ -1,6 +1,6 @@
 **TA UC6 - Situação de Aprendizagem - Gestão de Talentos em Ação: Descomplicando Admissões e Desligamentos**
 
-**Problematização**  
+## Problematização
 O Departamento Pessoal é uma área especializada na gestão dos colaboradores da empresa, onde é gerenciado a folha de pagamento, férias, benefícios, atestados, marcação de ponto e passivos trabalhistas.
 
 A gestão eficiente desses processos é crucial para o bom funcionamento da empresa, a manutenção da conformidade legal e a experiência positiva tanto dos novos colaboradores quanto daqueles que estão se desligando, por isso a empresa tem enfrentado os seguintes desafios:
@@ -23,3 +23,6 @@ Diante desse cenário, os grupos (empresas fictícias criadas pelos alunos desde
 **Resultados:**
 
 Elaborar **relatório** contendo todos os itens propostos no desafio.
+
+## Tudo se inicia aqui 
+[[louge]]
