@@ -11,7 +11,7 @@
 
 3. Entrevista e aprovação do candidato.
 
-4. Solicitação e conferência de documentos (RG, CPF, CTPS, comprovantes, etc).        
+4. Solicitação e conferência de documentos (RG, CPF, CTPS, comprovantes, etc.).        
 
 5. Cadastro no sistema (folha/eSocial).
 
