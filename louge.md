@@ -1,23 +1,5 @@
-# 📌 Iniciação do Projeto – Gestão de Talentos em Ação
+#  Iniciação do Projeto – Gestão de Talentos em Ação
 
-## 1. Fluxograma de Admissão e Demissão
-
-👉 Objetivo: criar **passo a passo visual** para organizar os processos.
-
-- **Admissão (exemplo de etapas):**
-1. Requisição de vaga aprovada pelo gestor.  
-
-2. Divulgação da vaga / processo seletivo.
-
-3. Entrevista e aprovação do candidato.
-
-4. Solicitação e conferência de documentos (RG, CPF, CTPS, comprovantes, etc.).        
-
-5. Cadastro no sistema (folha/eSocial).
-
-6. Assinatura de contrato.
-
-7. Integração (onboarding).
 
 - **Demissão (exemplo de etapas):**
     
@@ -37,9 +19,6 @@
         
     8. Arquivamento da documentação.
         
-
-📌 Ferramenta sugerida: você pode usar **draw.io**, **Miro** ou até **PowerPoint** para montar fluxogramas simples.
-
 ---
 
 ## 2. Guia Prático – Rotinas de Admissão

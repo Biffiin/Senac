@@ -9,3 +9,5 @@ o **onboarding** ou **embarcar**, que vem do inglês "to get on board" -- do sen
 
 # Importância
 Pode reduzir rotatividade, melhorar o engajamento e a produtividade do colaborador, diminui erros nos primeiros meses trazendo mais confiança ao mesmo e passa uma imagem mais profissional da empresa.
+
+E como isso impacta no [[eSocial]]? *Clique no link e saiba mais.*

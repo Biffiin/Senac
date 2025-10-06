@@ -22,6 +22,8 @@ Em vez de enviar dados separadamente para INSS, Caixa, Ministério do Trabalho, 
 - Traz segurança jurídica para a empresa.
 
 E um exemplo de como ambos [[Onboarding]] e o eSocial se conectam:
+> [!NOTE]
+> feito apenas em acompanhamento das informações dada pela IA ;)
 
 | **Etapa**                     | **Fase do Processo** | **Responsável Principal** | O que envolve (na prática)                                                                                            | **Ligação com o eSocial**                                                                                    |
 | ----------------------------- | -------------------- | ------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
