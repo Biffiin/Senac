@@ -1,31 +1,30 @@
 {
 	"nodes":[
-		{"id":"b5c403197da5fdc3","type":"text","text":"[[Demissão]]","x":-120,"y":-20,"width":125,"height":60},
-		{"id":"ae9e27ee4cd9e84a","type":"text","text":"Rotina de Demissão","x":60,"y":40,"width":115,"height":60},
-		{"id":"d6c0cb9f3e918d97","type":"text","text":"eSocial","x":440,"y":-120,"width":100,"height":60},
+		{"id":"865f42575a9e1114","x":-260,"y":-580,"width":390,"height":280,"type":"group","label":"Rotina de Admissão"},
 		{"id":"1bf56b5cc801bc97","x":580,"y":-490,"width":400,"height":400,"type":"file","file":"Admissão.md"},
-		{"id":"5a1348432ee04c24","type":"text","text":"Rotina de Admissão","x":60,"y":-700,"width":115,"height":60},
-		{"id":"210781ad79094cd1","type":"text","text":"Processos","x":-900,"y":-320,"width":120,"height":60},
 		{"id":"9b20e6c25bc395b1","x":-360,"y":-850,"width":250,"height":60,"type":"text","text":"Necessidade da vaga"},
 		{"id":"e01e3ba07f0d58f6","type":"text","text":"Entrevista","x":-300,"y":-670,"width":250,"height":60},
-		{"id":"f41aea0854dbd55e","type":"text","text":"Conferencia de Documentos","x":-260,"y":-610,"width":250,"height":60},
-		{"id":"66348bc3c01cff7a","type":"text","text":"Necessidade da vaga","x":-235,"y":-550,"width":250,"height":60},
 		{"id":"cc60d3db8ba92875","type":"text","text":"Processo Seletivo","x":-320,"y":-730,"width":250,"height":60},
 		{"id":"6122a0a1d640d7d9","type":"text","text":"Divulgação da vaga","x":-340,"y":-790,"width":250,"height":60},
 		{"id":"d9ee97f7196d1ce9","type":"text","text":"[[Admissão]]","x":-640,"y":-760,"width":125,"height":60},
-		{"id":"6016a774693cbd3f","type":"text","text":"Necessidade da vaga","x":-195,"y":-490,"width":250,"height":60},
-		{"id":"4e18b6697a87e8b4","type":"text","text":"Necessidade da vaga","x":-160,"y":-430,"width":250,"height":60}
+		{"id":"b5c403197da5fdc3","type":"text","text":"[[Demissão]]","x":-580,"y":500,"width":125,"height":60},
+		{"id":"210781ad79094cd1","type":"text","text":"Processos","x":-1160,"y":-300,"width":120,"height":60},
+		{"id":"66348bc3c01cff7a","type":"text","text":"Cadastro no eSocial","x":-215,"y":-500,"width":250,"height":60},
+		{"id":"4e18b6697a87e8b4","type":"text","text":"Onboarding","x":-140,"y":-380,"width":250,"height":60},
+		{"id":"6016a774693cbd3f","type":"text","text":"Assinatura de Contrato","x":-175,"y":-440,"width":250,"height":60},
+		{"id":"f41aea0854dbd55e","type":"text","text":"Conferencia de Documentos","x":-240,"y":-560,"width":250,"height":60},
+		{"id":"ae9e27ee4cd9e84a","type":"text","text":"Rotina de Demissão","x":260,"y":530,"width":115,"height":60}
 	],
 	"edges":[
 		{"id":"c8b3435b9047ed14","fromNode":"210781ad79094cd1","fromSide":"right","toNode":"b5c403197da5fdc3","toSide":"left"},
-		{"id":"062432ded5a72a52","fromNode":"5a1348432ee04c24","fromSide":"right","toNode":"d6c0cb9f3e918d97","toSide":"left"},
-		{"id":"5db5bc8dafa0d0ca","fromNode":"ae9e27ee4cd9e84a","fromSide":"right","toNode":"d6c0cb9f3e918d97","toSide":"left"},
-		{"id":"659e02b93983e94a","fromNode":"b5c403197da5fdc3","fromSide":"right","toNode":"ae9e27ee4cd9e84a","toSide":"top"},
 		{"id":"02ca388e76413f26","fromNode":"210781ad79094cd1","fromSide":"right","toNode":"d9ee97f7196d1ce9","toSide":"left"},
 		{"id":"e4a1d5e6d01da455","fromNode":"9b20e6c25bc395b1","fromSide":"left","toNode":"6122a0a1d640d7d9","toSide":"left"},
 		{"id":"679fea1968b7ad69","fromNode":"6122a0a1d640d7d9","fromSide":"left","toNode":"cc60d3db8ba92875","toSide":"left"},
 		{"id":"d106bbdb011df72e","fromNode":"e01e3ba07f0d58f6","fromSide":"left","toNode":"f41aea0854dbd55e","toSide":"left"},
 		{"id":"4ff3a5323e139d37","fromNode":"cc60d3db8ba92875","fromSide":"left","toNode":"e01e3ba07f0d58f6","toSide":"left"},
-		{"id":"2e0c748c7d6e56dd","fromNode":"d9ee97f7196d1ce9","fromSide":"right","toNode":"9b20e6c25bc395b1","toSide":"left"}
+		{"id":"2e0c748c7d6e56dd","fromNode":"d9ee97f7196d1ce9","fromSide":"right","toNode":"9b20e6c25bc395b1","toSide":"left"},
+		{"id":"ebc1249b017fd80a","fromNode":"f41aea0854dbd55e","fromSide":"left","toNode":"66348bc3c01cff7a","toSide":"left"},
+		{"id":"fe39efabc6ade03f","fromNode":"66348bc3c01cff7a","fromSide":"left","toNode":"6016a774693cbd3f","toSide":"left"},
+		{"id":"0a864818d47a714b","fromNode":"6016a774693cbd3f","fromSide":"left","toNode":"4e18b6697a87e8b4","toSide":"left"}
 	]
 }
